@@ -1,9 +1,9 @@
 {
   "library": {
-    "name": "Treewise",
+    "name": "Component Starter Kit",
     "components": ["./src/**/*.webflow.@(js|jsx|mjs|ts|tsx)"],
-    "description": "A collection of Webflow components built with React and Tailwind CSS for Treewise.",
-    "id": "treewise",
+    "description": "Code component starter kit for Webflow with TypeScript, Vite, shadcn UI(Base UI), and tailwindcss.",
+    "id": "component-starter-kit",
     "globals": "./src/globals.ts"
   },
   "telemetry": {
